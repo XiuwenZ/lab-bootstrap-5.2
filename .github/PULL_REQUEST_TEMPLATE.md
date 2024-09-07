@@ -11,11 +11,11 @@ TITLE: Include your section in the pull request title
 
 ## What section are you in:
 
-- [ ] Tuesday
-- [ ] Wednesday
-- [ ] Thursday
-- [ ] Friday 3pm
-- [ ] Friday 6pm
+- [ ]  Tuesday
+- [ ]  Wednesday
+- [ ]  Thursday
+- [ ]  Friday 3pm
+- [X]  Friday 6pm
 
 **Is the solution complete?**
 

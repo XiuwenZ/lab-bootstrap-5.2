@@ -32,8 +32,7 @@ In this lab, you are given an [index.html](index.html) file that contains our we
    - Starting on [medium `md` screens](screenshots/index-md-screen.png), 2 cookies per row
    - Starting on [large `lg` screens](screenshots/index-lg-screen.png), 4 cookies per row
    - Read about making your [images responsive](https://getbootstrap.com/docs/5.2/content/images/)
-
-2. Apply styling and classes so that the title text is displayed centered within the `<header>` section. Below are some hints on how to do this:
+2. Apply styling and classes so that the title text is displayed centered within the `<header>` section. Below are some hints on how to do this: 
 
    - Use custom styles for this section
    - Give the header section a fixed height, I used 400px
@@ -41,7 +40,6 @@ In this lab, you are given an [index.html](index.html) file that contains our we
    - Read about how to center a div block
    - Choose a background image of your own or use [the image provided](images/coffee-biscuits.jpg)
    - There are multiple ways to solve this section
-
 3. Style the "About us" section and the `<footer>` section of the page to display similar to the [screenshots](screenshots/index-lg-screen.png)
 
    - Use a grid for the "About us" section
@@ -51,7 +49,7 @@ In this lab, you are given an [index.html](index.html) file that contains our we
 
 1. Open the [alternating.html](alternating.html) page in your code editor
 2. Open the [alternating.html](alternating.html) page in your web browser
-3. Using only bootstrap grid styles make the cookie products alternate as shown and described in the following screenshots:
+3. Using only bootstrap grid styles make the cookie products alternate as shown and described in the following screenshots: 
 
    - On [mobile screens](screenshots/alternating-mobile-screen.png), display 1 cookie per row
    - Starting on [medium `md` screens](screenshots/alternating-md-screen.png), display the cookie image and details on the same row, but alternate the order of these two on every row
